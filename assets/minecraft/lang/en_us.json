@@ -3,9 +3,7 @@
   "container.hopper": "",
   "container.crafting": "",
   "container.enchant": "",
-  "container.brewing": "",
   "container.loom": "",
-  "container.cartography_table": "",
   "container.stonecutter": " ",
   
   "options.graphics.fabulous.tooltip": "§aReimagined§r: A highly experimental & performance heavy feature that utilises post processing vanilla shaders for effects like raytraced reflections §c(INCOMPATIBLE WITH SODIUM)",
